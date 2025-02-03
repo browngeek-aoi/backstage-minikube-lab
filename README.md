@@ -18,7 +18,9 @@
 </p> -->
 
 <p title="Banner" align="center"> <img src="https://i.imgur.com/0zlneYu.png"> </p>
-![Alt](https://repobeats.axiom.co/api/embed/49a385b4e0e983df8062aa611586034ff500a90f.svg "Repobeats analytics image")
+
+![Alt](https://repobeats.axiom.co/api/embed/49a385b4e0e983df8062aa611586034ff500a90f.svg)] 
+
 # INDEX
 
 - [Introduction](#introduction)
